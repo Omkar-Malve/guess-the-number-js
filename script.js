@@ -2,8 +2,6 @@
 // const submitButton = document.querySelector('button');
 const form = document.querySelector('form');
 const result = document.querySelector("#result");
-const restart = document.querySelector("#restart");
-const playAgain  = document.querySelector('#playAgain')
 
 
 form.addEventListener('submit', function(e){
